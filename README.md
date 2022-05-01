@@ -1,3 +1,16 @@
+# Info
+This project is a tutorial I've found on Youtube.
+
+I took the dataset and solved proposed tasks on my own. 
+
+I believe it presents some possible use of pandas and python in data analysis.
+
+Link to the tutorial - [HERE](https://www.youtube.com/watch?v=eMOA1pPVUc4&ab_channel=KeithGalli)
+<br/><br/><br/>
+Thanks Keith for the great work!
+<br/><br/>
+The original README I've taken from [Keith](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) . Starts here.
+
 # Pandas-Data-Science-Tasks
 Set of real world data science tasks completed using the Python Pandas library.
 
